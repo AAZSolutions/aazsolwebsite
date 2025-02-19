@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Arabic Font */
+@font-face {
+  font-family: 'Noto Sans Arabic';
+  src: url('https://fonts.googleapis.com/css2?family=Noto+Sans+Arabic:wght@400;500;600;700&display=swap');
+}
+
+[lang="ar"] {
+  font-family: 'Noto Sans Arabic', sans-serif;
+}
+
+/* Language-specific styles */
+[lang="ar"] .space-x-2 > :not([hidden]) ~ :not([hidden]),
+[lang="ar"] .space-x-4 > :not([hidden]) ~ :not([hidden]),
+[lang="ar"] .space-x-8 > :not([hidden]) ~ :not([hidden]) {
+  --tw-space-x-reverse: 1;
+}
