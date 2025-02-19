@@ -7,5 +7,5 @@ export default defineConfig({
   optimizeDeps: {
     exclude: ['lucide-react'],
   },
-  base: '/aazsolwebsite/', // Make sure this matches your repository name exactly
+  base: './', // Change this to relative path
 })
