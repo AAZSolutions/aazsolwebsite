@@ -75,7 +75,7 @@ export const en = {
   'about.mission.description': 'To empower organizations with innovative technology solutions that drive growth, efficiency, and competitive advantage in an ever-evolving digital landscape.',
   'about.team.title': 'Our Leadership Team',
   'about.team.ceo': 'Chief Executive Officer',
-  'about.team.bio': 'With over 15 years of experience in technology and business transformation, Sarah leads AAZ Solutions with a vision to empower organizations through innovative digital solutions. Her leadership has been instrumental in establishing AAZ as a leading technology partner for businesses worldwide.',
+  'about.team.bio': 'With over 5 years of experience in technology and business transformation, Abdelrahman leads AAZ Solutions with a vision to empower organizations through innovative digital solutions. His leadership has been instrumental in establishing AAZ as a leading technology partner for businesses worldwide.',
   'about.team.cto': 'Chief Technology Officer',
   'about.team.coo': 'Chief Operations Officer',
   
