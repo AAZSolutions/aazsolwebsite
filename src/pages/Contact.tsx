@@ -52,7 +52,7 @@ export function Contact() {
                     <Phone className="h-6 w-6 text-primary mt-1" />
                     <div>
                       <h3 className="font-semibold">{t('contact.info.phone')}</h3>
-                      <a href="tel:+201557019709" className="text-primary hover:underline">+20 10 19831970</a>
+                      <a href="tel:+201557019709" className="text-primary hover:underline">+20 15 57019709</a>
                     </div>
                   </div>
                   <div className="flex items-start space-x-4 bg-white p-6 rounded-lg shadow-sm hover:shadow-md transition-shadow">
