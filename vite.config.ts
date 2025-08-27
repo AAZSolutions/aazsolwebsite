@@ -7,7 +7,7 @@ export default defineConfig({
   optimizeDeps: {
     exclude: ['lucide-react'],
   },
-  base: 'https://www.aazsol.com/',  // Use the full domain URL
+  base: 'https://aazsol.com/',  // Use the full domain URL
   build: {
     outDir: 'dist',
     assetsDir: 'assets',
